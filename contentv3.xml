@@ -23,7 +23,7 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value=""></unicode>
+  <unicode value="sda"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -176,6 +176,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Esta Situación de Aprendizaje se plantea para el alumnado de 1º de Administración y Finanzas, en el módulo de Comunicación y Atención al Cliente, con el objetivo de conectar las competencias de la comunicación oral con situaciones reales del entorno profesional. A través de esta propuesta, el alumnado comprenderá cómo el lenguaje verbal y no verbal impacta directamente en la calidad de la atención al cliente, fomentando una actitud profesional, empática y resolutiva.&lt;br /&gt;&lt;br /&gt;El hilo conductor de la SdA se articula en torno a un reto práctico: simular una atención al cliente en distintos contextos empresariales, aplicando estrategias de comunicación oral eficaces. El alumnado deberá diseñar y representar situaciones reales en las que se atienda a clientes de forma presencial y telefónica, cuidando tanto el lenguaje verbal como el no verbal, y adaptando su estilo comunicativo a las necesidades del interlocutor.&lt;br /&gt;Este reto permite aplicar los conocimientos en un entorno próximo a la realidad laboral del alumnado, desarrollando competencias como la escucha activa, la empatía, la claridad en la expresión, la gestión emocional y la capacidad de adaptación comunicativa.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;El producto final será una presentación grupal en la que cada equipo exponga:&lt;br /&gt;·       Una simulación de atención al cliente (presencial o telefónica).&lt;br /&gt;·       Justificación de las decisiones comunicativas adoptadas.&lt;br /&gt;·       Análisis del lenguaje verbal y no verbal utilizado.&lt;br /&gt;·       Propuestas de mejora en la interacción.&lt;/p&gt;
@@ -202,7 +204,7 @@
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="3"></reference>
           </dictionary>
          </instance>
         </list>
@@ -303,8 +305,10 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Etapa educativa y nivel: 1º Ciclo superior Administración y finanzas (Formación profesional)&lt;br /&gt;Módulo: Comunicación y atención al cliente&lt;br /&gt;Agrupamientos: grupos de 3 a 4 alumnos/as&lt;br /&gt;Organización espacial: aula&lt;br /&gt;Productos del alumnado:&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Simulación de atención al cliente (presencial o telefónica)&lt;/strong&gt;&lt;br /&gt;Este producto constituye el núcleo del proyecto y refleja la aplicación práctica de las competencias comunicativas trabajadas. Cada grupo diseñará y representará una situación real de atención al cliente, cuidando la expresión oral, la comunicación gestual/no verbal y la adaptación al perfil del interlocutor o interlocutora. La simulación se realizará en formato presencial o telefónico, y servirá como base para la presentación final. Se valorará la claridad, la empatía, la profesionalidad y la capacidad de resolución.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Infografía interactiva&lt;/strong&gt;&lt;br /&gt;La infografía complementará la simulación, ofreciendo una representación visual clara y atractiva que explique los elementos comunicativos utilizados (verbales y no verbales), las estrategias aplicadas y las decisiones tomadas en la interacción. Este recurso permitirá sintetizar información técnica de manera accesible, incorporando esquemas, iconos, anotaciones y breves textos explicativos.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Podcast explicativo&lt;/strong&gt;&lt;br /&gt;Cada grupo grabará un breve podcast en el que reflexione sobre el proceso seguido en la SdA: cómo han preparado la simulación, qué dificultades han encontrado, qué han aprendido sobre la comunicación eficaz y cómo aplicarían estos conocimientos en un entorno profesional real. Este formato promueve la competencia comunicativa, la argumentación y la capacidad de relacionar los saberes con los retos del siglo XXI. &lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Herramientas: &lt;/strong&gt;&lt;br /&gt;Canva o power point&lt;br /&gt;Clipchamp o grabadora de audio integrada móvil o pc&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Etapa educativa y nivel: 1º Ciclo superior Administración y finanzas (Formación profesional)&lt;br /&gt;Módulo: Comunicación y atención al cliente&lt;br /&gt;Agrupamientos: grupos de 3 a 4 alumnos/as&lt;br /&gt;Organización espacial: aula&lt;br /&gt;Temporalización: 5 sesiones de 55 minutos&lt;br /&gt;Productos del alumnado:&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Simulación de atención al cliente (presencial o telefónica)&lt;/strong&gt;&lt;br /&gt;Este producto constituye el núcleo del proyecto y refleja la aplicación práctica de las competencias comunicativas trabajadas. Cada grupo diseñará y representará una situación real de atención al cliente, cuidando la expresión oral, la comunicación gestual/no verbal y la adaptación al perfil del interlocutor o interlocutora. La simulación se realizará en formato presencial o telefónico, y servirá como base para la presentación final. Se valorará la claridad, la empatía, la profesionalidad y la capacidad de resolución.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Infografía interactiva&lt;/strong&gt;&lt;br /&gt;La infografía complementará la simulación, ofreciendo una representación visual clara y atractiva que explique los elementos comunicativos utilizados (verbales y no verbales), las estrategias aplicadas y las decisiones tomadas en la interacción. Este recurso permitirá sintetizar información técnica de manera accesible, incorporando esquemas, iconos, anotaciones y breves textos explicativos.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Podcast explicativo&lt;/strong&gt;&lt;br /&gt;Cada grupo grabará un breve podcast en el que reflexione sobre el proceso seguido en la SdA: cómo han preparado la simulación, qué dificultades han encontrado, qué han aprendido sobre la comunicación eficaz y cómo aplicarían estos conocimientos en un entorno profesional real. Este formato promueve la competencia comunicativa, la argumentación y la capacidad de relacionar los saberes con los retos del siglo XXI. &lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Herramientas: &lt;/strong&gt;&lt;br /&gt;Canva o power point&lt;br /&gt;Clipchamp o grabadora de audio integrada móvil o pc&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -327,7 +331,7 @@
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="3"></reference>
           </dictionary>
          </instance>
         </list>
@@ -588,6 +592,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La presente Situación de Aprendizaje se conecta directamente con los Objetivos de Desarrollo Sostenible (ODS) y con los desafíos que plantea el siglo XXI, fomentando en el alumnado una visión crítica, profesional y responsable sobre la comunicación en entornos laborales.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;ODS 4: Educación de calidad&lt;/strong&gt;&lt;br /&gt;La SdA promueve aprendizajes significativos mediante metodologías activas como el aprendizaje basado en proyectos, simulaciones y trabajo cooperativo. Se desarrollan competencias clave como la comunicación eficaz, la resolución de conflictos, la empatía y el pensamiento crítico, esenciales para la formación integral del alumnado y su preparación para el mundo profesional.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;ODS 8: Trabajo decente y crecimiento económico&lt;/strong&gt;&lt;br /&gt;Al centrarse en la atención al cliente, esta SdA prepara al alumnado para desempeñar funciones profesionales en sectores clave de la economía. Se fomenta una actitud responsable, respetuosa y resolutiva en el trato con clientes, contribuyendo a la mejora de la calidad del servicio y al desarrollo de entornos laborales más humanos y eficientes.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;ODS 10: Reducción de las desigualdades&lt;/strong&gt;&lt;br /&gt;La SdA promueve la adaptación del lenguaje y estilo comunicativo según el perfil del cliente, reconociendo la diversidad de interlocutores y fomentando una atención inclusiva. Esto contribuye a reducir barreras comunicativas y a garantizar un trato equitativo en contextos empresariales.&lt;br /&gt; &lt;br /&gt;En cuanto a los retos del siglo XXI, esta SdA responde a la necesidad de:&lt;br /&gt; &lt;/p&gt;
 &lt;ul&gt;
@@ -617,7 +623,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="9"></reference>
              </dictionary>
             </instance>
            </list>
@@ -745,6 +751,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt; Objetivos del módulo trabajados en la SdA&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Esta SdA permite trabajar de forma integrada varios objetivos clave del currículo de Formación profesional:&lt;/p&gt;
@@ -800,7 +808,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="14"></reference>
              </dictionary>
             </instance>
            </list>
@@ -928,6 +936,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;La metodología principal seleccionada para esta Situación de Aprendizaje es el Aprendizaje Basado en Proyectos (ABP), que sitúa al alumnado como protagonista activo del proceso de enseñanza-aprendizaje. El reto planteado simular una atención al cliente eficaz en distintos contextos empresariales permite aplicar saberes comunicativos en una situación realista, fomentando la autonomía, la toma de decisiones y la reflexión crítica.&lt;br /&gt; &lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -952,7 +962,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="17"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1080,6 +1090,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La SdA incorpora el uso de herramientas digitales como Canva, PowerPoint, y Clipchamp, promoviendo la competencia digital del alumnado desde un enfoque creativo, crítico y seguro. Esta integración responde a los objetivos del PAD, desarrollando habilidades clave para el entorno profesional actual.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1104,7 +1116,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="20"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1205,6 +1217,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;La SdA contribuye al desarrollo de la competencia comunicativa del alumnado mediante la elaboración de guiones, análisis de casos reales, redacción de propuestas de mejora y argumentación oral en las presentaciones finales. Se promueve la lectura crítica de situaciones comunicativas, la escritura profesional y la investigación aplicada sobre estilos de atención al cliente, en coherencia con los objetivos del PLEI.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1229,7 +1243,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="20"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1330,6 +1344,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El trabajo cooperativo en grupos, las dinámicas de simulación y la exposición pública de los productos favorecen la convivencia positiva, el respeto mutuo y la inclusión. La SdA promueve valores como la empatía, la escucha activa, la asertividad y la participación equitativa, contribuyendo a un clima de aula saludable y al desarrollo de habilidades sociales esenciales para la vida profesional y personal.&lt;br /&gt; &lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1354,7 +1370,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="20"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1482,6 +1498,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Descripción: Organizar una salida a empresas de Navia, Luarca o alrededores que cuenten con departamentos de atención al cliente (por ejemplo, oficinas bancarias, aseguradoras, comercios o cooperativas). &lt;br /&gt;Objetivo: Observar y analizar estilos comunicativos reales, identificar buenas prácticas y reflexionar sobre la importancia de la comunicación profesional en el trato con el cliente.&lt;br /&gt;Producto: Diario de observación con anotaciones sobre el lenguaje utilizado, la actitud del personal, el entorno comunicativo y propuestas de mejora. &lt;br /&gt;Valor añadido: Conexión directa con el tejido empresarial del occidente asturiano, orientación vocacional y aprendizaje situado en el entorno sociolaboral del alumnado.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1506,7 +1524,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="27"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1607,6 +1625,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Descripción: Invitar a una persona experta en atención al cliente (por ejemplo, responsable de atención en una empresa local, técnico de turismo o gestor comercial) para impartir un taller práctico en el aula. &lt;br /&gt;Objetivo: Comprender la relación entre teoría y práctica profesional, y reflexionar sobre las competencias comunicativas necesarias en el mundo laboral.&lt;br /&gt;Producto: El alumnado elaborará una serie de preguntas y reflexiones que se incorporarán a la justificación de sus simulaciones en la presentación final.&lt;br /&gt;Valor añadido: Orientación profesional, desarrollo de habilidades de entrevista y escucha activa, y conexión con el entorno laboral del occidente asturiano.&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1631,7 +1651,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="27"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1759,6 +1779,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-download-package-instructions&quot;&gt;&lt;table class=&quot;exe-table&quot;&gt;&lt;caption&gt;Información general sobre este recurso educativo&lt;/caption&gt;
 &lt;tbody&gt;
@@ -1768,7 +1790,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Descripción&lt;/th&gt;
-&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Fichero editable de la SdA “Comunicar con eficacia: el arte de atender al cliente”, elaborado con eXeLearning.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Autoría&lt;/th&gt;
@@ -1803,7 +1825,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="32"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1890,7 +1912,7 @@
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value=""></unicode>
+    <unicode value="sda"></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
@@ -2123,7 +2145,25 @@
       <string role="key" value="coverage"></string>
       <list></list>
       <string role="key" value="description"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="sda"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list>
        <instance class="exe.engine.lom.lomsubs.identifierSub">
@@ -2700,7 +2740,25 @@
       <string role="key" value="coverage"></string>
       <list></list>
       <string role="key" value="description"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="sda"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list>
        <instance class="exe.engine.lom.lomsubs.identifierSub">
